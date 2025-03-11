@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberta-Adm\\Desktop\\B4_Vizualizator de formule matematice_Buzenchi Paula-Roberta_Iacob David-Gabriel\\Math Formula Visualizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD7A831-6203-4412-8A38-8A2E27784FB4}|Math Formula Visualizer\\Math Formula Visualizer.vcxproj|C:\\Users\\Roberta-Adm\\Desktop\\B4_Vizualizator de formule matematice_Buzenchi Paula-Roberta_Iacob David-Gabriel\\Math Formula Visualizer\\Math Formula Visualizer\\Math Formula Visualizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FD7A831-6203-4412-8A38-8A2E27784FB4}|Math Formula Visualizer\\Math Formula Visualizer.vcxproj|solutionrelative:Math Formula Visualizer\\Math Formula Visualizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math Formula Visualizer.cpp",
+              "DocumentMoniker": "C:\\Users\\Roberta-Adm\\Desktop\\B4_Vizualizator de formule matematice_Buzenchi Paula-Roberta_Iacob David-Gabriel\\Math Formula Visualizer\\Math Formula Visualizer\\Math Formula Visualizer.cpp",
+              "RelativeDocumentMoniker": "Math Formula Visualizer\\Math Formula Visualizer.cpp",
+              "ToolTip": "C:\\Users\\Roberta-Adm\\Desktop\\B4_Vizualizator de formule matematice_Buzenchi Paula-Roberta_Iacob David-Gabriel\\Math Formula Visualizer\\Math Formula Visualizer\\Math Formula Visualizer.cpp",
+              "RelativeToolTip": "Math Formula Visualizer\\Math Formula Visualizer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T19:10:50.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
